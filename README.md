@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, I’m [Hossein](https://margani.dev) 👋
+#### a software engineer based in London, UK.
 
-<!--
-**margani/margani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+specializing in building (and occasionally designing) high-quality websites and applications.
 
-Here are some ideas to get you started:
+I enjoy building things that live on the internet or a desktop PC. For the past fourteen years (since 2006), I have worked on a wide variety of interesting and meaningful projects on a daily basis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few technologies I've been working with recently:
+
+* .NET Framework and .NET Core
+* JavaScript (ES6+)
+* Node.js
+* React, Angular and Vue
+* Redux
+* HTML and CSS (SCSS/LESS)
+* Next.js
+
+Also, as a DevOps engineer I have worked with the following technologies:
+
+* Microsoft Azure
+* IBM Cloud
+* Vagrant
+* F5 BIG-IP
+
+#### Get in touch
+
+* LinkedIn: [hosseinmargani](https://www.linkedin.com/in/hosseinmargani/)
+* Twitter: [whosanedev](https://twitter.com/whosanedev)
+* Website: [margani.dev](https://margani.dev)

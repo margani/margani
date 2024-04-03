@@ -1,28 +1,26 @@
-### Hi, I’m [Hossein](https://margani.dev) 👋
-#### a software engineer based in London, UK.
+### Hi, I’m [Hossein Margani](https://margani.dev) 👋
+#### a seasoned DevOps Solutions Architect based in London, UK.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/margani)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosseinmargani/)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/whosanedev)
 [![Personal Website](https://img.shields.io/badge/-margani.dev-white?style=flat&logo=website&logoColor=white)](https://margani.dev)
 
-specializing in building (and occasionally designing) high-quality websites and applications.
+With over seventeen years of hands-on experience, I’ve dedicated myself to architecting robust cloud infrastructures and delivering high-quality software solutions that exceed expectations.
 
-I enjoy building things that live on the internet or a desktop PC. For the past fourteen years (since 2006), I have worked on a wide variety of interesting and meaningful projects on a daily basis.
+Throughout my career, I’ve spearheaded DevOps initiatives and provided strategic direction to teams, ensuring alignment with project goals and industry best practices. As a DevSecOps Solutions Architect, I’ve led the development of Azure infrastructure solutions, focusing on scalability, security, and cost-effectiveness.
 
-Here are a few technologies I've been working with recently:
+My expertise extends to orchestrating CI/CD pipelines, optimizing cloud resources, and integrating security into development and deployment pipelines. I’ve collaborated closely with development teams to translate project requirements into effective infrastructure solutions, fostering seamless workflows and efficient delivery processes.
 
-* .NET Framework and .NET Core
-* JavaScript (ES6+)
-* Node.js
-* React, Angular and Vue
-* Redux
-* HTML and CSS (SCSS/LESS)
-* Next.js
+Here are a few of the technologies I've been actively working with:
 
-Also, as a DevOps engineer I have worked with the following technologies:
-
-* Microsoft Azure
-* IBM Cloud
-* Vagrant
-* F5 BIG-IP
+- **Cloud Platforms**: Azure
+- **Containerization**: Docker, Azure Kubernetes Service (AKS)
+- **CI/CD Tools**: Octopus Deploy, Azure Pipelines (YAML), GitHub Actions, TeamCity
+- **Infrastructure as Code**: ARM and Bicep Templates
+- **Monitoring & Logging**: Azure Monitor, Logz.io
+- **Scripting Languages**: PowerShell, Bash, and Python
+- **Automation and Workflow Management**: Azure Logic Apps, Azure Automation Accounts
+- **Web Application Security**: Azure Web Application Firewall (WAF)
+- **Database Technologies**: Azure SQL Database, Cosmos DB
+- **Agile Methodologies**: Scrum, Kanban

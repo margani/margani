@@ -8,7 +8,7 @@
 
 With over seventeen years of hands-on experience, I’ve dedicated myself to architecting robust cloud infrastructures and delivering high-quality software solutions that exceed expectations.
 
-Throughout my career, I’ve spearheaded DevOps initiatives and provided strategic direction to teams, ensuring alignment with project goals and industry best practices. As a DevSecOps Solutions Architect, I’ve led the development of Azure infrastructure solutions, focusing on scalability, security, and cost-effectiveness.
+Throughout my career, I've spearheaded DevOps initiatives and provided strategic direction to teams, ensuring alignment with project goals and industry best practices.
 
 My expertise extends to orchestrating CI/CD pipelines, optimizing cloud resources, and integrating security into development and deployment pipelines. I’ve collaborated closely with development teams to translate project requirements into effective infrastructure solutions, fostering seamless workflows and efficient delivery processes.
 

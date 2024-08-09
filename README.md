@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosseinmargani/)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/whosanedev)
 [![Personal Website](https://img.shields.io/badge/-margani.dev-white?style=flat&logo=website&logoColor=white)](https://margani.dev)
+![Profile views](https://komarev.com/ghpvc/?username=margani)
 
 With over seventeen years of hands-on experience, I’ve dedicated myself to architecting robust cloud infrastructures and delivering high-quality software solutions that exceed expectations.
 

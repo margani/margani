@@ -8,7 +8,7 @@ A seasoned **DevOps Engineer** based in London, UK, with a rich background in **
 [![Personal Website](https://img.shields.io/badge/-margani.dev-white?style=flat&logo=website&logoColor=white)](https://margani.dev)
 ![Profile views](https://komarev.com/ghpvc/?username=margani)
 
-With over 17 years of experience spanning software development and DevOps, I specialize in designing resilient cloud infrastructures and delivering high-quality, scalable software solutions. My journey from developer to DevOps engineer has given me a unique perspective, enabling me to bridge the gap between coding and infrastructure management seamlessly.
+With over 18 years of experience spanning software development and DevOps, I specialize in designing resilient cloud infrastructures and delivering high-quality, scalable software solutions. My journey from developer to DevOps engineer has given me a unique perspective, enabling me to bridge the gap between coding and infrastructure management seamlessly.
 
 Throughout my career, I’ve led transformative DevOps initiatives, empowering teams to align with strategic goals and adopt industry best practices. My expertise lies in solving complex challenges and driving:
 

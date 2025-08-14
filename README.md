@@ -1,33 +1,74 @@
-### Hi, I’m [Hossein Margani](https://margani.dev) 👋
+# 👋 Hi, I'm Hossein Margani
 
-A seasoned **DevOps Engineer** based in London, UK, with a rich background in **software development** and engineering.
+**Senior DevOps Engineer & Software Engineer**  
+_London, UK_
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/margani)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosseinmargani/)
-[![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/whosanedev)
-[![Personal Website](https://img.shields.io/badge/-margani.dev-white?style=flat&logo=website&logoColor=white)](https://margani.dev)
-![Profile views](https://komarev.com/ghpvc/?username=margani)
+[![Website](https://img.shields.io/badge/Website-margani.dev-blue?logo=google-chrome)](https://margani.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-margani-blue?logo=github)](https://github.com/margani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hosseinmargani-blue?logo=linkedin)](https://www.linkedin.com/in/hosseinmargani)
+[![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Call-blue?logo=calendly)](https://calendly.com/margani)
+[![Email](https://img.shields.io/badge/Email-hossein@margani.dev-blue?logo=gmail)](mailto:hossein@margani.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=margani&style=flat-square)
 
-With over 18 years of experience spanning software development and DevOps, I specialize in designing resilient cloud infrastructures and delivering high-quality, scalable software solutions. My journey from developer to DevOps engineer has given me a unique perspective, enabling me to bridge the gap between coding and infrastructure management seamlessly.
+---
 
-Throughout my career, I’ve led transformative DevOps initiatives, empowering teams to align with strategic goals and adopt industry best practices. My expertise lies in solving complex challenges and driving:
+## 🚀 About Me
 
-- Rapid, reliable deployments through CI/CD pipelines.
-- Scalable API development using Go.
-- Modular infrastructure design with Pulumi (C#).
-- Efficient containerization with Docker, AKS, and Helm Charts.
+I'm a dynamic and achievement-focused Senior DevOps Engineer with 4+ years of hands-on experience in designing, implementing, and maintaining secure cloud infrastructures—plus a solid foundation in software development. I thrive on solving complex problems, mentoring teams, and automating everything that moves.
 
-### Technologies I’ve Been Actively Working With
+- 💡 Passionate about DevOps, automation, and cloud security
+- 📈 Advocate for continuous improvement, efficiency, and cost optimization
+- 🤝 Enjoy mentoring, collaboration, and technical leadership
+- 🔐 Champion of DevSecOps and security best practices
 
-Here’s a snapshot of the tools and platforms I’ve mastered:
+---
 
-- **Cloud Platforms**: Azure
-- **Containerization & Orchestration**: Docker, Azure Kubernetes Service (AKS), Helm Charts
-- **Infrastructure as Code (IaC)**: Pulumi (C#), ARM and Bicep Templates
-- **Programming Languages**: PowerShell, Bash, Python, Go (for backend and API development)
-- **CI/CD Tools**: Octopus Deploy, Azure Pipelines (YAML), GitHub Actions, TeamCity
-- **Monitoring & Logging**: Azure Monitor, Logz.io
-- **Automation**: Azure Logic Apps, Azure Automation Accounts
-- **Web Security**: Azure Web Application Firewall (WAF)
-- **Databases**: Azure SQL Database, Cosmos DB
-- **Agile Methodologies**: Scrum, Kanban
+## 🛠️ Skills
+
+**Cloud & IaC:**  
+Azure (architecture, cost optimization), ARM & Bicep, Infrastructure as Code
+
+**DevOps & CI/CD:**  
+Octopus Deploy, Azure Pipelines, GitHub Actions, Chef, Vagrant
+
+**Programming & Scripting:**  
+PowerShell, Bash, Python, C#, .NET Core, SQL Server, RESTful API
+
+**Containers:**  
+Azure Kubernetes, Helm v3, Docker
+
+**Security:**  
+DevSecOps, WAF (Azure Front Door), SQL vulnerability assessment, private endpoints
+
+**Web & Microservices:**  
+.NET, lit-html, Redux, TDD, microservices, component-based UI
+
+---
+
+## 🌟 What I'm Working On
+
+- Improving CI/CD efficiency and security in enterprise cloud environments
+- Exploring new DevOps automation tools and practices
+- Open to collaborations and consulting opportunities—reach out!
+
+---
+
+## 📫 How to Reach Me
+
+- **Website:** [margani.dev](https://margani.dev)
+- **GitHub:** [github.com/margani](https://github.com/margani)
+- **LinkedIn:** [hosseinmargani](https://www.linkedin.com/in/hosseinmargani)
+- **Calendly:** [Book a call](https://calendly.com/margani)
+- **Email:** [hossein@margani.dev](mailto:hossein@margani.dev)
+
+---
+
+## 📈 GitHub Stats
+
+![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=margani&show_icons=true&hide_title=true)
+
+---
+
+<!--
+Last updated: 11 Aug 2025
+-->

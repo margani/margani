@@ -26,10 +26,10 @@ I'm a dynamic and achievement-focused Senior DevOps Engineer with 4+ years of ha
 ## 🛠️ Skills
 
 **Cloud & IaC:**  
-Azure (architecture, cost optimization), ARM & Bicep, Infrastructure as Code
+Azure (architecture, cost optimization), ARM & Bicep, Infrastructure as Code, Pulumi .NET
 
 **DevOps & CI/CD:**  
-Octopus Deploy, Azure Pipelines, GitHub Actions, Chef, Vagrant
+Azure Pipelines, GitHub Actions, Octopus Deploy, Chef, Vagrant
 
 **Programming & Scripting:**  
 PowerShell, Bash, Python, C#, .NET Core, SQL Server, RESTful API
@@ -41,7 +41,7 @@ Azure Kubernetes, Helm v3, Docker
 DevSecOps, WAF (Azure Front Door), SQL vulnerability assessment, private endpoints
 
 **Web & Microservices:**  
-.NET, lit-html, Redux, TDD, microservices, component-based UI
+.NET, TDD, microservices, component-based UI
 
 ---
 
